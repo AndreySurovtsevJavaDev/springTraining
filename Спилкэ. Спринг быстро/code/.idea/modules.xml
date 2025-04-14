@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-app2-ex1/sq-app2-ex1.iml" filepath="$PROJECT_DIR$/code/sq-app2-ex1/sq-app2-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch10-ex1/sq-ch10-ex1.iml" filepath="$PROJECT_DIR$/code/sq-ch10-ex1/sq-ch10-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch10-ex2/sq-ch10-ex2.iml" filepath="$PROJECT_DIR$/code/sq-ch10-ex2/sq-ch10-ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch10-ex3/sq-ch10-ex3.iml" filepath="$PROJECT_DIR$/code/sq-ch10-ex3/sq-ch10-ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch10-ex4/sq-ch10-ex4.iml" filepath="$PROJECT_DIR$/code/sq-ch10-ex4/sq-ch10-ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch10-ex5/sq-ch10-ex5.iml" filepath="$PROJECT_DIR$/code/sq-ch10-ex5/sq-ch10-ex5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch10-ex6/sq-ch10-ex6.iml" filepath="$PROJECT_DIR$/code/sq-ch10-ex6/sq-ch10-ex6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch10-ex7/sq-ch10-ex7.iml" filepath="$PROJECT_DIR$/code/sq-ch10-ex7/sq-ch10-ex7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch11-ex1/sq-ch11-ex1.iml" filepath="$PROJECT_DIR$/code/sq-ch11-ex1/sq-ch11-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch11-ex2/sq-ch11-ex2.iml" filepath="$PROJECT_DIR$/code/sq-ch11-ex2/sq-ch11-ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch11-ex3/sq-ch11-ex3.iml" filepath="$PROJECT_DIR$/code/sq-ch11-ex3/sq-ch11-ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch11-payments/sq-ch11-payments.iml" filepath="$PROJECT_DIR$/code/sq-ch11-payments/sq-ch11-payments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch12-ex1/sq-ch12-ex1.iml" filepath="$PROJECT_DIR$/code/sq-ch12-ex1/sq-ch12-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch12-ex2/sq-ch12-ex2.iml" filepath="$PROJECT_DIR$/code/sq-ch12-ex2/sq-ch12-ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch12-ex3/sq-ch12-ex3.iml" filepath="$PROJECT_DIR$/code/sq-ch12-ex3/sq-ch12-ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch13-ex1/sq-ch13-ex1.iml" filepath="$PROJECT_DIR$/code/sq-ch13-ex1/sq-ch13-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch13-ex2/sq-ch13-ex2.iml" filepath="$PROJECT_DIR$/code/sq-ch13-ex2/sq-ch13-ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch14-ex1/sq-ch14-ex1.iml" filepath="$PROJECT_DIR$/code/sq-ch14-ex1/sq-ch14-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch2-ex1/sq-ch2-ex1.iml" filepath="$PROJECT_DIR$/code/sq-ch2-ex1/sq-ch2-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch2-ex2/sq-ch2-ex2.iml" filepath="$PROJECT_DIR$/code/sq-ch2-ex2/sq-ch2-ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch2-ex3/sq-ch2-ex3.iml" filepath="$PROJECT_DIR$/code/sq-ch2-ex3/sq-ch2-ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch2-ex4/sq-ch2-ex4.iml" filepath="$PROJECT_DIR$/code/sq-ch2-ex4/sq-ch2-ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch2-ex5/sq-ch2-ex5.iml" filepath="$PROJECT_DIR$/code/sq-ch2-ex5/sq-ch2-ex5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch2-ex6/sq-ch2-ex6.iml" filepath="$PROJECT_DIR$/code/sq-ch2-ex6/sq-ch2-ex6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch2-ex7/sq-ch2-ex7.iml" filepath="$PROJECT_DIR$/code/sq-ch2-ex7/sq-ch2-ex7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch2-ex8/sq-ch2-ex8.iml" filepath="$PROJECT_DIR$/code/sq-ch2-ex8/sq-ch2-ex8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch3-ex1/sq-ch3-ex1.iml" filepath="$PROJECT_DIR$/code/sq-ch3-ex1/sq-ch3-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch3-ex10/sq-ch3-ex10.iml" filepath="$PROJECT_DIR$/code/sq-ch3-ex10/sq-ch3-ex10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch3-ex2/sq-ch3-ex2.iml" filepath="$PROJECT_DIR$/code/sq-ch3-ex2/sq-ch3-ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch3-ex3/sq-ch3-ex3.iml" filepath="$PROJECT_DIR$/code/sq-ch3-ex3/sq-ch3-ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch3-ex4/sq-ch3-ex4.iml" filepath="$PROJECT_DIR$/code/sq-ch3-ex4/sq-ch3-ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch3-ex5/sq-ch3-ex5.iml" filepath="$PROJECT_DIR$/code/sq-ch3-ex5/sq-ch3-ex5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch3-ex6/sq-ch3-ex6.iml" filepath="$PROJECT_DIR$/code/sq-ch3-ex6/sq-ch3-ex6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch3-ex7/sq-ch3-ex7.iml" filepath="$PROJECT_DIR$/code/sq-ch3-ex7/sq-ch3-ex7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch3-ex8/sq-ch3-ex8.iml" filepath="$PROJECT_DIR$/code/sq-ch3-ex8/sq-ch3-ex8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch3-ex9/sq-ch3-ex9.iml" filepath="$PROJECT_DIR$/code/sq-ch3-ex9/sq-ch3-ex9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch4-ex1/sq-ch4-ex1.iml" filepath="$PROJECT_DIR$/code/sq-ch4-ex1/sq-ch4-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch4-ex2/sq-ch4-ex2.iml" filepath="$PROJECT_DIR$/code/sq-ch4-ex2/sq-ch4-ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch4-ex3/sq-ch4-ex3.iml" filepath="$PROJECT_DIR$/code/sq-ch4-ex3/sq-ch4-ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch4-ex4/sq-ch4-ex4.iml" filepath="$PROJECT_DIR$/code/sq-ch4-ex4/sq-ch4-ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch4-ex5/sq-ch4-ex5.iml" filepath="$PROJECT_DIR$/code/sq-ch4-ex5/sq-ch4-ex5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch4-ex6/sq-ch4-ex6.iml" filepath="$PROJECT_DIR$/code/sq-ch4-ex6/sq-ch4-ex6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch4-ex7/sq-ch4-ex7.iml" filepath="$PROJECT_DIR$/code/sq-ch4-ex7/sq-ch4-ex7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch5-ex1/sq-ch5-ex1.iml" filepath="$PROJECT_DIR$/code/sq-ch5-ex1/sq-ch5-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch5-ex2/sq-ch5-ex2.iml" filepath="$PROJECT_DIR$/code/sq-ch5-ex2/sq-ch5-ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch5-ex3/sq-ch5-ex3.iml" filepath="$PROJECT_DIR$/code/sq-ch5-ex3/sq-ch5-ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch5-ex4/sq-ch5-ex4.iml" filepath="$PROJECT_DIR$/code/sq-ch5-ex4/sq-ch5-ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch5-ex5/sq-ch5-ex5.iml" filepath="$PROJECT_DIR$/code/sq-ch5-ex5/sq-ch5-ex5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch5-ex6/sq-ch5-ex6.iml" filepath="$PROJECT_DIR$/code/sq-ch5-ex6/sq-ch5-ex6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch5-ex7/sq-ch5-ex7.iml" filepath="$PROJECT_DIR$/code/sq-ch5-ex7/sq-ch5-ex7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch6-ex1/sq-ch6-ex1.iml" filepath="$PROJECT_DIR$/code/sq-ch6-ex1/sq-ch6-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch6-ex2/sq-ch6-ex2.iml" filepath="$PROJECT_DIR$/code/sq-ch6-ex2/sq-ch6-ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch6-ex3/sq-ch6-ex3.iml" filepath="$PROJECT_DIR$/code/sq-ch6-ex3/sq-ch6-ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch6-ex4/sq-ch6-ex4.iml" filepath="$PROJECT_DIR$/code/sq-ch6-ex4/sq-ch6-ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch6-ex5/sq-ch6-ex5.iml" filepath="$PROJECT_DIR$/code/sq-ch6-ex5/sq-ch6-ex5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch6-ex6/sq-ch6-ex6.iml" filepath="$PROJECT_DIR$/code/sq-ch6-ex6/sq-ch6-ex6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch6-ex7/sq-ch6-ex7.iml" filepath="$PROJECT_DIR$/code/sq-ch6-ex7/sq-ch6-ex7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch7-ex1/sq-ch7-ex1.iml" filepath="$PROJECT_DIR$/code/sq-ch7-ex1/sq-ch7-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch8-ex1/sq-ch8-ex1.iml" filepath="$PROJECT_DIR$/code/sq-ch8-ex1/sq-ch8-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch8-ex2/sq-ch8-ex2.iml" filepath="$PROJECT_DIR$/code/sq-ch8-ex2/sq-ch8-ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch8-ex3/sq-ch8-ex3.iml" filepath="$PROJECT_DIR$/code/sq-ch8-ex3/sq-ch8-ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch8-ex4/sq-ch8-ex4.iml" filepath="$PROJECT_DIR$/code/sq-ch8-ex4/sq-ch8-ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch8-ex5/sq-ch8-ex5.iml" filepath="$PROJECT_DIR$/code/sq-ch8-ex5/sq-ch8-ex5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch8-ex6/sq-ch8-ex6.iml" filepath="$PROJECT_DIR$/code/sq-ch8-ex6/sq-ch8-ex6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch9-ex1/sq-ch9-ex1.iml" filepath="$PROJECT_DIR$/code/sq-ch9-ex1/sq-ch9-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch9-ex2/sq-ch9-ex2.iml" filepath="$PROJECT_DIR$/code/sq-ch9-ex2/sq-ch9-ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/sq-ch9-ex3/sq-ch9-ex3.iml" filepath="$PROJECT_DIR$/code/sq-ch9-ex3/sq-ch9-ex3.iml" />
+    </modules>
+  </component>
+</project>

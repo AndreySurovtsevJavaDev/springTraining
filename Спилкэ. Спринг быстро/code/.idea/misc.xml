@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/code/sq-ch2-ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch2-ex2/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch2-ex3/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch2-ex4/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch2-ex5/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch2-ex6/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch2-ex7/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch2-ex8/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch3-ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch3-ex2/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch3-ex3/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch3-ex4/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch3-ex5/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch3-ex6/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch3-ex7/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch3-ex8/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch3-ex9/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch4-ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch4-ex2/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch4-ex3/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch4-ex4/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch4-ex5/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch4-ex6/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch4-ex7/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch5-ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch5-ex2/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch5-ex3/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch5-ex4/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch5-ex5/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch5-ex6/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch5-ex7/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch6-ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch6-ex2/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch6-ex3/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch6-ex4/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch6-ex5/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch6-ex6/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch6-ex7/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch7-ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch8-ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch8-ex2/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch8-ex3/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch8-ex4/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch8-ex5/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch8-ex6/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch9-ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch9-ex2/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch9-ex3/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-app2-ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch10-ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch10-ex2/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch10-ex3/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch10-ex4/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch10-ex5/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch10-ex6/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch10-ex7/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch11-ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch11-ex2/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch11-ex3/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch12-ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch12-ex2/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch12-ex3/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch13-ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch13-ex2/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch14-ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch3-ex10/pom.xml" />
+        <option value="$PROJECT_DIR$/code/sq-ch11-payments/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>
