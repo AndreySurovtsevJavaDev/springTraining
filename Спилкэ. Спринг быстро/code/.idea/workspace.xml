@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3334ca05-a738-43de-8904-b84ef62fa63d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2eBOGRtXufUNSMb6b34BeUv3wIM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/учебны JAVA/spring/Спилкэ. Спринг быстро/code&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;3087bc2f7f315fd10e3ec8237fdf8d36&quot;
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="sq-app2-ex1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (10)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch13-ex2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (11)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch8-ex4" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (12)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch9-ex1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (13)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch8-ex6" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (14)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch11-ex3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (15)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch10-ex7" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (16)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch9-ex2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (17)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch11-ex1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (18)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch10-ex3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (19)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch11-ex2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch11-payments" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (20)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch10-ex6" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (21)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch7-ex1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (22)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch9-ex3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (23)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch12-ex1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (24)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch8-ex1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (25)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch14-ex1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (26)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch8-ex5" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch10-ex2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch8-ex2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch10-ex1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch12-ex3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (6)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch12-ex2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (7)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch10-ex5" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (8)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch10-ex4" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (9)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch13-ex1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sq-ch8-ex3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3334ca05-a738-43de-8904-b84ef62fa63d" name="Changes" comment="" />
+      <created>1711374409270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711374409270</updated>
+      <workItem from="1711374410841" duration="706000" />
+      <workItem from="1711463930512" duration="789000" />
+      <workItem from="1711545059372" duration="637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

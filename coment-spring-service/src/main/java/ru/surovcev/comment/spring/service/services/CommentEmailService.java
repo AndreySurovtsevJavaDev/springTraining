@@ -16,6 +16,9 @@ public class CommentEmailService {
      * Зависимости в виде 2х атрибутов класса.
      * Передаются извне (те самые DI)
      */
+    /**
+     * Final даёт понять, что бины не должны быть изменяемыми.
+     */
     private final CommentRepository commentRepository;
     private final CommentNotificationProxy commentNotificationProxy;
 
