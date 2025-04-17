@@ -1,16 +1,23 @@
 package ru.surovcev.comment.spring.service.services;
 
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.stereotype.Component;
+import org.springframework.beans.factory.config.BeanDefinition;
+import org.springframework.context.annotation.Lazy;
+import org.springframework.context.annotation.Scope;
+import org.springframework.stereotype.Service;
 import ru.surovcev.comment.spring.service.model.Comment;
 import ru.surovcev.comment.spring.service.proxies.CommentNotificationProxy;
 import ru.surovcev.comment.spring.service.repositoies.CommentRepository;
+
+import static org.springframework.beans.factory.config.BeanDefinition.SCOPE_PROTOTYPE;
 
 /**
  * Класс реализующий сценарий использования. Для реализации он использует классы отвечающие за конкретные действия.
  * т.е что-то типо класса-менеджера, который даёт распоряжения на выполнение задач подчинённым классам, не вдаваясь в детали, как они это будут делать.
  */
-@Component
+@Service    // Стереотипная аннотация. Даёт дополнительную информацио о том, что задача объектов этого класса - это реализация сценариев использования
+//@Lazy   // с данной аннотацией Spring создаст бин, только когда потребуется его использовать.
+@Scope(BeanDefinition.SCOPE_PROTOTYPE)
 public class CommentEmailService {
     /**
      * Зависимости в виде 2х атрибутов класса.
@@ -36,6 +43,7 @@ public class CommentEmailService {
     public CommentEmailService(CommentRepository commentRepository,@Qualifier("EMAIL") CommentNotificationProxy commentNotificationProxy) {
         this.commentRepository = commentRepository;
         this.commentNotificationProxy = commentNotificationProxy;
+        System.out.println("comment email service bin created");    // вспомогательный текст для проверки создания бина.
     }
 
     /**

@@ -1,6 +1,6 @@
 package ru.surovcev.comment.spring.service.repositoies;
 
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
 import ru.surovcev.comment.spring.service.model.Comment;
 
 /**
@@ -10,8 +10,9 @@ import ru.surovcev.comment.spring.service.model.Comment;
 
 /**
  * Для класса с аннотацией @Component Spring создаст экземпляр и добавит этот экземпляр в контекст как бин
+ * @Component был заменён на @Repository, чтобы дать дополнительную информацию, что основная задача объектов помеченных этой аннотацией - сохранять данные
  */
-@Component
+@Repository
 public class DBCommentRepositories implements CommentRepository{
     @Override
     public void storeComment(Comment comment) {

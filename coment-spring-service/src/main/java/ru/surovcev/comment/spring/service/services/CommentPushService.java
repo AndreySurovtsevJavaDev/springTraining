@@ -1,7 +1,7 @@
 package ru.surovcev.comment.spring.service.services;
 
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 import ru.surovcev.comment.spring.service.model.Comment;
 import ru.surovcev.comment.spring.service.proxies.CommentNotificationProxy;
 import ru.surovcev.comment.spring.service.repositoies.CommentRepository;
@@ -9,7 +9,7 @@ import ru.surovcev.comment.spring.service.repositoies.CommentRepository;
 /**
  * Ещё один класс реализующий сценарий использования. Для реализации он использует те же классы отвечающие за конкретные действия, что и другой сервис.
  */
-@Component
+@Service
 public class CommentPushService {
     private final CommentNotificationProxy commentNotificationProxy;
 
