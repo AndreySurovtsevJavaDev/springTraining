@@ -1,5 +1,6 @@
 package ru.surovcev.comment.spring.service.services;
 
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 import ru.surovcev.comment.spring.service.model.Comment;
 import ru.surovcev.comment.spring.service.proxies.CommentNotificationProxy;
@@ -10,7 +11,7 @@ import ru.surovcev.comment.spring.service.repositoies.CommentRepository;
  * т.е что-то типо класса-менеджера, который даёт распоряжения на выполнение задач подчинённым классам, не вдаваясь в детали, как они это будут делать.
  */
 @Component
-public class CommentService {
+public class CommentEmailService {
     /**
      * Зависимости в виде 2х атрибутов класса.
      * Передаются извне (те самые DI)
@@ -24,7 +25,12 @@ public class CommentService {
      * @param commentRepository
      * @param commentNotificationProxy
      */
-    public CommentService(CommentRepository commentRepository, CommentNotificationProxy commentNotificationProxy) {
+    /**
+     * Т.к добавились специальные реализации, теперь нужно сопровождать эти реализации @Qualifier
+     * @param commentRepository
+     * @param commentNotificationProxy
+     */
+    public CommentEmailService(CommentRepository commentRepository,@Qualifier("EMAIL") CommentNotificationProxy commentNotificationProxy) {
         this.commentRepository = commentRepository;
         this.commentNotificationProxy = commentNotificationProxy;
     }
@@ -33,7 +39,7 @@ public class CommentService {
      * Метод, который вызывает методы подчинённых классов (та самая задача от менеджера подчинённому - что-то сделать)
      * @param comment
      */
-    public void publishComment(Comment comment) {
+    public void publishEmailComment(Comment comment) {
         commentRepository.storeComment(comment);
         commentNotificationProxy.sendComment(comment);
     }

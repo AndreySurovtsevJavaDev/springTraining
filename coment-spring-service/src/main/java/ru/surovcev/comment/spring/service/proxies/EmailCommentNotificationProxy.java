@@ -1,5 +1,6 @@
 package ru.surovcev.comment.spring.service.proxies;
 
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 import ru.surovcev.comment.spring.service.model.Comment;
 
@@ -13,6 +14,7 @@ import ru.surovcev.comment.spring.service.model.Comment;
  * Для класса с аннотацией @Component Spring создаст экземпляр и добавит этот экземпляр в контекст как бин
  */
 @Component
+@Qualifier("EMAIL")     // С помощью аннотации присвоили реализации имя (это после добавения ещё одно класса реализующего отправку)
 public class EmailCommentNotificationProxy implements CommentNotificationProxy{
     @Override
     public void sendComment(Comment comment){
