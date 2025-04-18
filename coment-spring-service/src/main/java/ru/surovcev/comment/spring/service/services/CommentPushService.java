@@ -18,6 +18,13 @@ public class CommentPushService {
         this.commentNotificationProxy = commentNotificationProxy;
     }
 
+    /**
+     * 6.1 Аспекты
+     * класс CommentPushService (целевой объект) помещён в контекст с помощью аннотации @Service И является бином
+     * Далее, пример: мы хотим, чтобы перед (после, или вместо) каждым выполнением (срез) метода publishPushComment (принадлежит бину) выполнялась (совет) ещё некая логика (аспект)
+     * @param comment
+     */
+
     public void publishPushComment(Comment comment) {
         commentNotificationProxy.sendComment(comment);
     }
