@@ -20,10 +20,10 @@ public class CommentService {
      * java Logging  API
      * фреймворки журналирования совместимы со всеми java-приложениями, независимо от того, используется ли в них Spring
      */
-    private Logger log =
+    private Logger logger =
             Logger.getLogger(CommentService.class.getName());
 
     public void pushComment(Comment comment) {
-        log.info("Публикуемый комментарий: " + comment.getText());
+        logger.info("Публикуемый комментарий: " + comment.getText());
     }
 }
