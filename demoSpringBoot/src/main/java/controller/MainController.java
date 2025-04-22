@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class MainController {
-    @RequestMapping("home")       // С помощью аннотации @RequestMapping() привязываем действие к пути http-запроса
+    @RequestMapping("/home")       // С помощью аннотации @RequestMapping() привязываем действие к пути http-запроса
     public String home(Model page) {
         page.addAttribute("username", "Katy");
         page.addAttribute("color", "red");
