@@ -1,0 +1,17 @@
+<!--Статическая веб-страница, содержимое которой будет отображаться в браузере-->
+
+<!DOCTYPE html>
+<!--8.1 дорабатываем страничку под динамическое представление-->
+<!--Определяем префикс th для Thymeleaf-->
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>Welcome
+        <!--8.1 используем префикс th Для значений переданных контроллером-->
+        <span th:style="'color' + ${color}"
+              th:text="${username}"></span></h1>
+</body>
+</html>
