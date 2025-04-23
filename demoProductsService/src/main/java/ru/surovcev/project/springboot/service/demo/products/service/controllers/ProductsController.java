@@ -8,6 +8,9 @@ import ru.surovcev.project.springboot.service.demo.products.service.services.Pro
 
 @Controller
 public class ProductsController {
+    /**
+     * Чтобы получить бин сервиса из контекста Spring, мы используем DI в конструкторе контроллера
+     */
     private final ProductService productService;
     public ProductsController(ProductService productService) {
         this.productService = productService;
@@ -20,6 +23,6 @@ public class ProductsController {
     public String viewProducts(Model model) {
         var products = productService.findAll();
         model.addAttribute("products", products);
-        return "products.html";
+        return "products";
     }
 }
