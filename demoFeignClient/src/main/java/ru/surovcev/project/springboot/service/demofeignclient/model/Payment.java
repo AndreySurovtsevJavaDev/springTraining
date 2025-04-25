@@ -1,8 +1,6 @@
-package ru.surovcev.project.springboot.service.demoresthello.model;
+package ru.surovcev.project.springboot.service.demofeignclient.model;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-
-public class PaymentDetails {
+public class Payment {
     private String paymentId;
     private double amount;
 
