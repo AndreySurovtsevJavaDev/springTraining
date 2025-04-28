@@ -1,5 +1,8 @@
 package ru.surovcev.project.springboot.service.demofeignclient.model;
 
+/**
+ * по сути этот класс - это Это DTO (объект, который передаётся между клиентом и сервером)
+ */
 public class Payment {
     private String paymentId;
     private double amount;
