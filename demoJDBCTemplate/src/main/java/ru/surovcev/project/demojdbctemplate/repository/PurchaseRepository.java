@@ -5,6 +5,7 @@ import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Repository;
 import ru.surovcev.project.demojdbctemplate.model.Purchase;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -68,5 +69,39 @@ public class PurchaseRepository {
          * чтобы JdbcTemplate знал, как преобразовать полученные данные в объект Purchase
          */
         return jdbc.query(sql, purchaseRowMapper);
+    }
+
+    /**
+     * Создаём запрос на редактирование покупки
+     */
+    public void updatePurchase(Purchase purchase) {  // в качестве параметра метод принимает данные, которые нужно изменить
+        StringBuilder sql = new StringBuilder("UPDATE purchase SET ");
+        List<Object> params = new ArrayList<>();
+
+        if (purchase.getProduct() != null) {
+            sql.append("name = ?, ");
+            params.add(purchase.getProduct());
+        }
+
+        if (purchase.getPrice() != null) {
+            sql.append("price = ?, ");
+            params.add(purchase.getPrice());
+        }
+
+        if (params.isEmpty()) {
+            throw new IllegalArgumentException("Нет данных для обновления");
+        }
+        /**
+         * для чего тут этот костыль:
+         * Если оба поля заданы, sql будет выглядеть так: UPDATE purchase SET name = ?, price = ?,
+         * Проблема: В конце есть лишняя запятая и пробел (, ), что приведёт к синтаксической ошибке в SQL.
+         * sql.length() - 2 — отрезает последние 2 символа (, ).
+         */
+        sql.setLength(sql.length() - 2);
+
+        sql.append(" WHERE id = ?");
+        params.add(purchase.getId());
+
+        jdbc.update(sql.toString(), params.toArray());
     }
 }

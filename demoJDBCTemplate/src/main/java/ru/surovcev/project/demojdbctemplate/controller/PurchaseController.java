@@ -1,5 +1,7 @@
 package ru.surovcev.project.demojdbctemplate.controller;
 
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import ru.surovcev.project.demojdbctemplate.model.Purchase;
 import ru.surovcev.project.demojdbctemplate.repository.PurchaseRepository;
@@ -37,5 +39,21 @@ public class PurchaseController {
     @GetMapping("/get-all")
     public List<Purchase> getAllPurchases() {
        return purchaseRepository.findAllPurchase();
+    }
+
+    @PutMapping("/update")
+    /**
+     * Вспоминаем ResponseEntity и как получать id из параметров
+     */
+    public ResponseEntity<Purchase> putPurchase(
+            @RequestParam int requestId,
+            @RequestBody Purchase purchase) {
+
+        purchase.setId(requestId);
+        purchaseRepository.updatePurchase(purchase);
+
+        return ResponseEntity
+                .status(HttpStatus.OK)
+                .body(purchase);
     }
 }
