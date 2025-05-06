@@ -36,7 +36,9 @@ public class TransferServiceUnitTest {
         destination.setAmount(new BigDecimal(1000));
 
         /**
-         * given() - метод JUnit
+         * Методы given() и willReturn() являются частью Mockito API и используются для настройки поведения mock-объектов в тестах.
+         * given() - это метод из Mockito, который начинает цепочку настройки поведения mock-объекта. Он используется в стиле BDD (Behavior-Driven Development).
+         * willReturn() определяет, какое значение должен вернуть mock-объект при вызове указанного метода.
          */
         given(accountRepository.findById(sender.getId())).willReturn(Optional.of(sender));
 
